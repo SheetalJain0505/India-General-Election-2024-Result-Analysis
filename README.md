@@ -3,12 +3,6 @@
 
 This project analyzes the **India General Elections 2024 (Lok Sabha)** using real-world data across constituencies, states, and political alliances. It is designed to help political analysts, journalists, researchers, and data enthusiasts **understand electoral trends through interactive dashboards** and advanced SQL.
 
-The project contains:
-- Relational database schema (5 interlinked tables)
-- Advanced SQL queries (joins, CASE, aggregation)
-- Four professional Power BI dashboards
-- DAX-based dynamic KPIs and filters
-- Drill-through & bookmark functionality
 
 ---
 
