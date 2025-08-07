@@ -6,6 +6,7 @@ This project analyzes the **India General Elections 2024 (Lok Sabha)** using rea
 
 ---
 
+
 ## 🗃️ Datasets Used
 
 | File Name                      | Description                                                                 |
@@ -17,6 +18,9 @@ This project analyzes the **India General Elections 2024 (Lok Sabha)** using rea
 | `States.csv`                    | List of Indian states with IDs                                             |
 
 ---
+
+![Alt Text](dashboard.png)
+
 
 ## 🧱 ER Diagram & Data Modeling
 
